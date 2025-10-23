@@ -5,8 +5,15 @@
 
 #converter {
     border: 1px solid red;
+    background-color: #6943FF;
+    color: white;
 }
 
 .box {
     border: 1px solid blue;
+}
+
+#input-el {
+    background-color: #6943FF;
+    color: white;
 }
